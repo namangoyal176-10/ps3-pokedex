@@ -45,7 +45,7 @@ Add your screenshot at `screenshots/pokemon-details.png`.
 ![Pokémon Details](screenshots/pokemon-details.png)
 
 ## Live Demo
-Add your deployed Vercel or Netlify URL here.
+https://ps3-pokedex-reactrouter.vercel.app/
 
 ## Author
 Naman Goyal
